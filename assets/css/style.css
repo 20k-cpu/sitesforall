@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Блок форматирования */
 .container{
 	width: 100%;
-	max-width: 1200px;
+	max-width: 1300px;
 	margin: 0 auto;
 	
 }
@@ -276,12 +276,7 @@ display:block;
 	text-transform:uppercase;
 }
 /*cost*/
-.container2{
-	width: 100%;
-	max-width: 1200px;
-	margin: 0 auto;
-	height:70vh;
-}
+
 .img1{
 	
 	margin-bottom:30px;
